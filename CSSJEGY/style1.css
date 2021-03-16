@@ -9,4 +9,14 @@ table {
     margin: auto;
     padding: 0px;
     background-color: (92, 107, 123);
+    
+}
+
+table table {
+    background-color: white;
+
+}
+
+#masikszin1 {
+    background-color: (205, 219, 235) ;
 }
